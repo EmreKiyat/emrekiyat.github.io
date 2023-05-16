@@ -1,0 +1,11 @@
+D:\SP500\SP500\CandleWeb\bin\Debug\netcoreapp3.1\CandleWeb.exe
+D:\SP500\SP500\CandleWeb\bin\Debug\netcoreapp3.1\CandleWeb.deps.json
+D:\SP500\SP500\CandleWeb\bin\Debug\netcoreapp3.1\CandleWeb.runtimeconfig.json
+D:\SP500\SP500\CandleWeb\bin\Debug\netcoreapp3.1\CandleWeb.runtimeconfig.dev.json
+D:\SP500\SP500\CandleWeb\bin\Debug\netcoreapp3.1\CandleWeb.dll
+D:\SP500\SP500\CandleWeb\bin\Debug\netcoreapp3.1\CandleWeb.pdb
+D:\SP500\SP500\CandleWeb\obj\Debug\netcoreapp3.1\CandleWeb.csprojAssemblyReference.cache
+D:\SP500\SP500\CandleWeb\obj\Debug\netcoreapp3.1\CandleWeb.AssemblyInfoInputs.cache
+D:\SP500\SP500\CandleWeb\obj\Debug\netcoreapp3.1\CandleWeb.AssemblyInfo.cs
+D:\SP500\SP500\CandleWeb\obj\Debug\netcoreapp3.1\CandleWeb.dll
+D:\SP500\SP500\CandleWeb\obj\Debug\netcoreapp3.1\CandleWeb.pdb
